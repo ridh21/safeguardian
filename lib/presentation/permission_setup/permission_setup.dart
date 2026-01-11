@@ -208,7 +208,7 @@ class _PermissionSetupState extends State<PermissionSetup> {
                     ),
                     SizedBox(height: 1.h),
                     Text(
-                      'To keep you safe, SafeGuardian needs access to your location and motion sensors for continuous monitoring.',
+                      'To keep you safe, SurakhshaSakhi needs access to your location and motion sensors for continuous monitoring.',
                       style: theme.textTheme.bodyMedium?.copyWith(
                         color: theme.colorScheme.onSurfaceVariant,
                       ),

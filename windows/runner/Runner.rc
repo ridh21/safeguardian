@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.safeguardian" "\0"
-            VALUE "FileDescription", "safeguardian" "\0"
+            VALUE "CompanyName", "com.SurakhshaSakhi" "\0"
+            VALUE "FileDescription", "SurakhshaSakhi" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "safeguardian" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.safeguardian. All rights reserved." "\0"
-            VALUE "OriginalFilename", "safeguardian.exe" "\0"
-            VALUE "ProductName", "safeguardian" "\0"
+            VALUE "InternalName", "SurakhshaSakhi" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.SurakhshaSakhi. All rights reserved." "\0"
+            VALUE "OriginalFilename", "SurakhshaSakhi.exe" "\0"
+            VALUE "ProductName", "SurakhshaSakhi" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

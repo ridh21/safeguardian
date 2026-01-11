@@ -1,7 +1,7 @@
-# SafeGuardian 🛡️
+# Suraksha Sakhi 🛡️
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="SafeGuardian Logo" width="120"/>
+  <img src="assets/images/logo.png" alt="Suraksha Sakhi Logo" width="120"/>
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ## 📱 Overview
 
-**SafeGuardian** is a comprehensive women's safety application designed to provide real-time protection, intelligent threat detection, and instant emergency response. Built with cutting-edge AI technology, SafeGuardian works silently in the background, continuously monitoring your safety and ready to act within seconds when you need help.
+**Suraksha Sakhi** is a comprehensive women's safety application designed to provide real-time protection, intelligent threat detection, and instant emergency response. Built with cutting-edge AI technology, Suraksha Sakhi works silently in the background, continuously monitoring your safety and ready to act within seconds when you need help.
 
-Whether you're walking alone at night, commuting through unfamiliar areas, or simply want peace of mind, SafeGuardian is your 24/7 digital guardian.
+Whether you're walking alone at night, commuting through unfamiliar areas, or simply want peace of mind, Suraksha Sakhi is your 24/7 digital guardian.
 
 ---
 
@@ -37,7 +37,7 @@ Whether you're walking alone at night, commuting through unfamiliar areas, or si
 
 ### 📍 Real-Time Location Tracking
 - **Live Location Sharing**: Share your real-time location with trusted contacts
-- **Journey Monitoring**: Set your destination and let SafeGuardian track your route
+- **Journey Monitoring**: Set your destination and let Suraksha Sakhi track your route
 - **Geo-Fencing**: Get alerts when entering or leaving designated safe/unsafe zones
 - **Location History**: Review your travel history for safety analysis
 - **Offline Caching**: Location data stored locally when internet is unavailable
@@ -94,13 +94,13 @@ Whether you're walking alone at night, commuting through unfamiliar areas, or si
 
 ## 🧠 How the AI Agent Works
 
-SafeGuardian's AI Agent is the brain behind your safety, working tirelessly in the background to keep you protected. Here's how it operates:
+Suraksha Sakhi's AI Agent is the brain behind your safety, working tirelessly in the background to keep you protected. Here's how it operates:
 
 ### Background Processing Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    SafeGuardian AI Agent                        │
+│                    Suraksha Sakhi AI Agent                        │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐          │
@@ -226,7 +226,7 @@ Based on the risk assessment, the AI Agent takes appropriate actions:
 
 ### 6. Machine Learning Models
 
-SafeGuardian employs several ML models:
+Suraksha Sakhi employs several ML models:
 
 | Model | Purpose | Update Frequency |
 |-------|---------|------------------|
@@ -290,7 +290,7 @@ flutter build ios --release
 
 ## 🔒 Privacy & Security
 
-SafeGuardian is built with privacy as a core principle:
+Suraksha Sakhi is built with privacy as a core principle:
 
 ### Data Protection
 - 🔐 **End-to-End Encryption**: All emergency communications are encrypted
@@ -328,7 +328,7 @@ SafeGuardian is built with privacy as a core principle:
 
 ## 📞 Emergency Numbers (India)
 
-SafeGuardian includes quick access to important emergency numbers:
+Suraksha Sakhi includes quick access to important emergency numbers:
 
 | Service | Number |
 |---------|--------|
@@ -348,10 +348,10 @@ SafeGuardian includes quick access to important emergency numbers:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/safeguardian.git
+git clone https://github.com/yourusername/suraksha-sakhi.git
 
 # Navigate to project directory
-cd safeguardian
+cd suraksha-sakhi
 
 # Install dependencies
 flutter pub get
@@ -374,7 +374,7 @@ flutter build apk --release
 
 ## 🤝 Contributing
 
-We welcome contributions to make SafeGuardian even better! 
+We welcome contributions to make Suraksha Sakhi even better! 
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -392,16 +392,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💜 Our Mission
 
-> *"Every woman deserves to feel safe, everywhere, every time. SafeGuardian is our commitment to making that a reality through technology."*
+> *"Every woman deserves to feel safe, everywhere, every time. Suraksha Sakhi is our commitment to making that a reality through technology."*
 
-SafeGuardian was created with a simple belief: **safety is a right, not a privilege**. We're dedicated to using AI and technology to create a safer world for women everywhere.
+Suraksha Sakhi was created with a simple belief: **safety is a right, not a privilege**. We're dedicated to using AI and technology to create a safer world for women everywhere.
 
 ---
 
 ## 📧 Contact & Support
 
 - **Email**: ridhampatel2k4@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/ridh21/safeguardian/issues)
+- **Issues**: [GitHub Issues](https://github.com/ridh21/suraksha-sakhi/issues)
 
 ---
 
@@ -410,11 +410,11 @@ SafeGuardian was created with a simple belief: **safety is a right, not a privil
 </p>
 
 <p align="center">
-  <strong>SafeGuardian - Because Your Safety Matters</strong>
+  <strong>Suraksha Sakhi - Because Your Safety Matters</strong>
 </p>
 
 ---
 
 ## ⭐ Star History
 
-If you find SafeGuardian helpful, please consider giving it a star! It helps others discover this project.
+If you find Suraksha Sakhi helpful, please consider giving it a star! It helps others discover this project.

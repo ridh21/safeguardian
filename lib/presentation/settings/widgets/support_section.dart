@@ -136,7 +136,7 @@ class SupportSection extends StatelessWidget {
 
     return Center(
       child: Text(
-        'SafeGuardian v1.0.0',
+        'SurakhshaSakhi v1.0.0',
         style: theme.textTheme.bodySmall?.copyWith(
           color: theme.colorScheme.onSurfaceVariant,
         ),

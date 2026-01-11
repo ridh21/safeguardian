@@ -1,4 +1,4 @@
-package com.safeguardian.safeguardian
+package com.SurakhshaSakhi.SurakhshaSakhi
 
 import io.flutter.embedding.android.FlutterActivity
 

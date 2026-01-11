@@ -158,7 +158,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 ),
                 SizedBox(height: 1.h),
                 Text(
-                  'Sign up to get started with SafeGuardian',
+                  'Sign up to get started with SurakhshaSakhi',
                   style: theme.textTheme.bodyMedium?.copyWith(
                     color: theme.textTheme.bodySmall?.color,
                   ),

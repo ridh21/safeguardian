@@ -148,7 +148,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
                 SizedBox(height: 1.h),
                 Text(
-                  'Sign in to continue to SafeGuardian',
+                  'Sign in to continue to SurakhshaSakhi',
                   style: theme.textTheme.bodyMedium?.copyWith(
                     color: theme.textTheme.bodySmall?.color,
                   ),

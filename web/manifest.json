@@ -1,11 +1,11 @@
 {
-    "name": "SafeGuardian",
-    "short_name": "SafeGuardian",
+    "name": "SurakhshaSakhi",
+    "short_name": "SurakhshaSakhi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "SafeGuardian - Your personal safety companion",
+    "description": "SurakhshaSakhi - Your personal safety companion",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
