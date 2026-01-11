@@ -1,12 +1,14 @@
 # Suraksha Sakhi 🛡️
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/images/logo.png" alt="Suraksha Sakhi Logo" width="120"/>
-</p>
+</p> -->
 
 <p align="center">
   <strong>Your Personal AI-Powered Safety Companion</strong>
 </p>
+
+<p align="center"><a href="https://github.com/user-attachments/assets/7577db9c-9ee1-474f-86f5-9e4e165d7137"> App Demo Video Link </a></p>
 
 <p align="center">
   <a href="#features">Features</a> •
